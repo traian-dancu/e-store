@@ -1,0 +1,22 @@
+[
+   {
+      "name":"grey",
+      "imgSrc":"http://www.magazinpapioane.ro/wp-content/uploads/2014/03/1959445_1409823102613098_365307921_n-150x150.jpg",
+      "price":12
+   },
+   {
+      "name":"white",
+      "imgSrc":"http://www.magazinpapioane.ro/wp-content/uploads/2014/03/1239381_1409823119279763_372757417_n1-150x150.jpg",
+      "price":6
+   },
+   {
+      "name":"blue",
+      "imgSrc":"http://www.magazinpapioane.ro/wp-content/uploads/2014/03/papion-duo-14-150x150.jpg",
+      "price":10
+   },
+   {
+      "name":"black",
+      "imgSrc":"http://www.magazinpapioane.ro/wp-content/uploads/2014/01/Negru11-150x150.jpg",
+      "price":9
+   }
+]
